@@ -11,10 +11,12 @@ putting character to grid etc.
 **You must have installed jdk-v17**
 1. Clone the repo.
 2. Open in IntelliJ and run.
+   
 or
-3. cd to out/production/Tic-Tac-Toe.
-4. open cmd here and run -> `java Main`
-5. Enjoy the game
+
+2. cd to out/production/Tic-Tac-Toe.
+3. open cmd here and run -> `java Main`
+4. Enjoy the game
 
 
 ## Screenshots
